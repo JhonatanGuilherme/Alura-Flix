@@ -1,0 +1,12 @@
+.LinkedinIcon {
+  margin-bottom: 4px;
+  max-width: 40px;
+}
+
+.GitHubIcon {
+  max-width: 50px;
+}
+
+body {
+  justify-content: space-between;
+}

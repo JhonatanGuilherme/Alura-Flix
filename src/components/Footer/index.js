@@ -1,5 +1,8 @@
 import React from 'react';
 import { FooterBase } from './styles';
+import './Footer.css';
+import GitHub from '../../assets/img/GitHub.png';
+import Linkedin from '../../assets/img/Linkedin.png';
 
 function Footer() {
   return (
@@ -13,7 +16,17 @@ function Footer() {
         <a href="https://www.alura.com.br/">
           Imersão React da Alura
         </a>
+        .
       </p>
+      <p>
+        Desenvolvido por Jhonatan Oliveira.
+      </p>
+      <a href="https://github.com/JhonatanGuilherme">
+        <img className="GitHubIcon" src={GitHub} alt="GitHub Icon" />
+      </a>
+      <a href="https://www.linkedin.com/in/jhonatanguilherme/">
+        <img className="LinkedinIcon" src={Linkedin} alt="Linkedin Icon" />
+      </a>
     </FooterBase>
   );
 }
