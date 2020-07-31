@@ -4,7 +4,7 @@
 
 - [x]  **[Aula 1 - React Components e AluraFlix](#aula-1)**
 - [x]  **[Aula 2 - Roteamento e State](#aula-2)**
-- [ ]  **Aula 3 - Formulários reutilizáveis e mais components**
+- [x]  **[Aula 3 - Formulários reutilizáveis e mais components](#aula-3)**
 - [ ]  **Aula 4 - Ajax, validação e o back-end**
 - [ ]  **Aula 5 - ?**
 
@@ -28,7 +28,7 @@ O site foi hospedado no site da [Vercel](https://vercel.com/) através do link: 
     - Instalação do Styled Components;
     - Criação de components;
     - Criação da page Home;
-    - Deploy do projeto;
+    - [Deploy do projeto](#deploy);
 - Para **criar** um ambiente com React, usar o seguinte código no terminal:
 
 ```powershell
@@ -57,5 +57,18 @@ npm start
 ```powershell
 npm install react-router-dom
 ```
+- Para **instalar** o React-Slick, usar o seguinte código no terminal:
+
+```powershell
+npm install react-slick
+```
+
+---
+
+### Aula 3
+
+- **Conteúdo**
+    - Atualização do CadastroCategoria;
+    - Implementação de formulários;
 
 ---
