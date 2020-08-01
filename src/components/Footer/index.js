@@ -11,15 +11,12 @@ function Footer() {
         <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
       </a>
       <p>
-        Orgulhosamente criado durante a
+        Orgulhosamente criado por Jhonatan Oliveira durante a
         {' '}
         <a href="https://www.alura.com.br/">
           Imersão React da Alura
         </a>
         .
-      </p>
-      <p>
-        Desenvolvido por Jhonatan Oliveira.
       </p>
       <a href="https://github.com/JhonatanGuilherme">
         <img className="GitHubIcon" src={GitHub} alt="GitHub Icon" />
