@@ -5,8 +5,8 @@
 - [x]  **[Aula 1 - React Components e AluraFlix](#aula-1)**
 - [x]  **[Aula 2 - Roteamento e State](#aula-2)**
 - [x]  **[Aula 3 - Formulários reutilizáveis e mais components](#aula-3)**
-- [ ]  **Aula 4 - Ajax, validação e o back-end**
-- [ ]  **Aula 5 - ?**
+- [x]  **[Aula 4 - Ajax, validação e o back-end](#aula-4)**
+- [ ]  **Aula 5 - Gerenciamento de videos com React e JavaScript**
 
 ### Tecnologias utilizadas
 
@@ -71,4 +71,35 @@ npm install react-slick
     - Atualização do CadastroCategoria;
     - Implementação de formulários;
 
+---
+### Aula 4
+
+- **Conteúdo**
+    - Instalação do ESLint;
+    - Integração dos PropTypes;
+    - Instalação do Json Server;
+    - Instalação do Concurrently;
+- Para **instalar** o ESLint, usar o seguinte código no terminal:
+
+```powershell
+npx eslint --init
+```
+
+- Para **instalar** o PropTypes, usar o seguinte código no terminal:
+
+```powershell
+npm install prop-types
+```
+
+- Para **instalar** o Json Server, usar o seguinte código no terminal:
+
+```powershell
+npm install json-server
+```
+
+- Para **instalar** o Concurrently, usar o seguinte código no terminal:
+
+```powershell
+npm install concurrently
+```
 ---
