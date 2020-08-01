@@ -20,6 +20,7 @@
 O site foi hospedado no site da [Vercel](https://vercel.com/) através do link: [https://aluraflix-john.vercel.app/](https://aluraflix-john.vercel.app/)
 
 O back-end da aplicação foi hospedado na nuvem da [Heroku](https://heroku.com).
+
 ---
 
 ### **Aula 1**
